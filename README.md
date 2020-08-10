@@ -99,7 +99,7 @@ Retrives Google Maps location data from search query
     + **query**
         + str; Google search query
     + **Example call**
-        + `livepopulartimes.get_places_by_query("restaurants open in London")`
+        + `livepopulartimes.get_places_by_search("restaurants open in London")`
 
 + **Response**
     + The information present for places can vary
